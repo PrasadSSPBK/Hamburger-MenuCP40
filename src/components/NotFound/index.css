@@ -1,0 +1,23 @@
+.homeContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.notFound {
+  height: 500px;
+  width: 500px;
+}
+.head {
+  color: #616e7c;
+  font-family: 'Roboto';
+  font-size: 25px;
+  font-weight: 700px;
+}
+
+.para {
+  color: #dcdcdc;
+  font-family: 'Roboto';
+  font-size: 20px;
+  font-weight: bold;
+}
